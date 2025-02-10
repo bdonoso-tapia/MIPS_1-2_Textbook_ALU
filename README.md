@@ -22,7 +22,6 @@ The following VHDL code implements a generic N bit ALU __from your textbook__. N
         Bonded IOBs use (out of 106): 39
     ```							 	
 5.	This ALU has 7 instructions. What is the ratio of slices to instructions? (slices / instruction)
-    ```
         6
     ```	
 6. Now, program the BASYS 3 board using the bitstream generated from this project. Set the switches as neccessary so that the  _a_ input to the alu contains 3 and the _b_ input contains
